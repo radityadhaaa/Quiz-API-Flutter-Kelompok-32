@@ -1,0 +1,4 @@
+#Sat May 11 12:44:01 WIB 2024
+base.0=D\:\\KULIAH\\Semester 4\\Provis\\quis 2\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
